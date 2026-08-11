@@ -1,4 +1,4 @@
-# love.py
+# luvmod.py
 
 def say_it():
     """Prints a message of love."""
