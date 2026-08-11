@@ -1,5 +1,5 @@
 # main.py
-import love
+import luvmod
 
 # Calls the say_it function from love.py
 print(love.say_it())
